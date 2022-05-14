@@ -1,6 +1,6 @@
 **SMS Web App, Cristea Teodora Madalina, Grupa 1117**
 
-**Link YouTube prezentare video a aplicatiei: [AICI](HTTP://161.35.92.116/).**
+**Link YouTube prezentare video a aplicatiei: [AICI](https://www.youtube.com/watch?v=BlYPZINHmy0).**
 
 **Aplicatia este disponibila [AICI](HTTP://161.35.92.116/).**
 
