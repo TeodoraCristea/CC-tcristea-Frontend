@@ -1,6 +1,8 @@
-### Introducere
-**Aplicatia este disponibila [AICI](HTTP://161.35.92.116/ "AICI").**
+**SMS Web App, Cristea Teodora Madalina, Grupa 1117**
+**Link YouTube prezentare video a aplicatiei: [AICI](HTTP://161.35.92.116/).**
+**Aplicatia este disponibila [AICI](HTTP://161.35.92.116/).**
 
+### Introducere
 Proiectul este reprezentat de o aplicatie web ce permite utilizatorilor sa trimita SMS-uri catre alte persoane care sa includa un mesaj personalizat. De asemenea, utilizatorii pot vedea activitatea recenta de folosire a serviciului, dar doar administratorul aplicatiei poate vedea continutul mesajelor trimise. Aplicatia este impartita in 2 componente:
 - Un API REST denumit "backend" ce expune rutele apelate de frontend pentru trimiterea unor SMS-uri noi sau pentru listarea activitatii recente de folosire a serviciului:
 	- Pentru trimiterea de SMS-uri este folosit API-ul [Vonage](https://www.vonage.com/ "Vonage"), care ofera un credit gratuit de 2 euro la inregistrare.
